@@ -2,4 +2,8 @@
 
 走私犯罪的基于时间序列预测：
 
-![img](README_Assert\main.jpg)
+<p align="center">
+  <a href="https://gitea.io/">
+    <img src="README_Assert/main.jpg" alt="main"/>
+  </a>
+</p>
